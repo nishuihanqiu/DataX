@@ -153,6 +153,13 @@
             <outputDirectory>datax</outputDirectory>
         </fileSet>
         <fileSet>
+            <directory>hdfsreaderv1/target/datax/</directory>
+            <includes>
+                <include>**/*.*</include>
+            </includes>
+            <outputDirectory>datax</outputDirectory>
+        </fileSet>
+        <fileSet>
             <directory>hbase11xreader/target/datax/</directory>
             <includes>
                 <include>**/*.*</include>
@@ -366,6 +373,13 @@
         </fileSet>
         <fileSet>
             <directory>hdfswriter/target/datax/</directory>
+            <includes>
+                <include>**/*.*</include>
+            </includes>
+            <outputDirectory>datax</outputDirectory>
+        </fileSet>
+        <fileSet>
+            <directory>hdfswriterv1/target/datax/</directory>
             <includes>
                 <include>**/*.*</include>
             </includes>
