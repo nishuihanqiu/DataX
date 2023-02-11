@@ -1,0 +1,11 @@
+{
+    "name": "hdfsreaderv1",
+    "parameter": {
+        "path": "",
+        "defaultFS": "",
+        "column": [],
+        "fileType": "orc",
+        "encoding": "UTF-8",
+        "fieldDelimiter": ","
+    }
+}

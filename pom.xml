@@ -124,7 +124,9 @@
         <!-- common support module -->
         <module>plugin-rdbms-util</module>
         <module>plugin-unstructured-storage-util</module>
-       
+        <module>hdfswriterv1</module>
+        <module>hdfsreaderv1</module>
+
     </modules>
 
     <dependencyManagement>
